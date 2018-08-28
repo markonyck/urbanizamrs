@@ -106,7 +106,7 @@ footer.site-footer p {font-size: 13px;}
 footer.site-footer p a {color: #666;}
 p.text {color: #666;}
 #copyright {background: #404040;color: #ccc;padding: 15px 0;font-size: 12px;margin-top: 20px;}
-#copyright p, #copyright ul {margin: 0;float: left;font-size: 12px;}
+#copyright p, #copyright ul {margin: 0 auto; font-size: 12px; display: table}
 #copyright a {color: #fff;font-size: 12px;}
 .site-footer li a:hover {color:#005FA6;}
 ul.big li {float: left;width: 49%;}
