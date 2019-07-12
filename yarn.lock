@@ -57,7 +57,7 @@
     "@babel/code-frame" "7.0.0-beta.51"
     "@babel/parser" "7.0.0-beta.51"
     "@babel/types" "7.0.0-beta.51"
-    lodash "^4.17.5"
+    lodash "^4.5.0"
 
 "@babel/traverse@7.0.0-beta.51":
   version "7.0.0-beta.51"
@@ -72,14 +72,14 @@
     debug "^3.1.0"
     globals "^11.1.0"
     invariant "^2.2.0"
-    lodash "^4.17.5"
+    lodash "^4.5.0"
 
 "@babel/types@7.0.0-beta.51":
   version "7.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.51.tgz#d802b7b543b5836c778aa691797abf00f3d97ea9"
   dependencies:
     esutils "^2.0.2"
-    lodash "^4.17.5"
+    lodash "^4.5.0"
     to-fast-properties "^2.0.0"
 
 abab@^1.0.3:
